@@ -3,9 +3,7 @@
 ### Hi there 👋, I'm Anan
 #### WordPress developer
 
-I am a professional WordPress developer with over 3 years of experience. My goal is to design websites that will beat your competitor's sites & support you until your success online. I am very familiar to deliver affordable high-converting, fast and bespoke websites. 
-
-If you have any questions or want to discuss something you can text me anytime. I always provide VIP support to my clients.
+I am a professional WordPress developer with over 3 years of experience. My goal is to design websites that will beat your competitor's sites & support you until your success online. I am very familiar to deliver affordable high-converting, fast and bespoke websites. If you have any questions or want to discuss something you can text me anytime. I always provide VIP support to my clients.
 
 Skills: HTML / CSS/ JS/ jQuery/ Bootstrap/ PHP/ MySQL/ WordPress
 
